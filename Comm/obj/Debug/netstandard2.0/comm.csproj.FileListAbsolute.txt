@@ -1,8 +1,0 @@
-D:\Vue-App\DotCoreVue-Mvc\comm\bin\Debug\netstandard2.0\comm.deps.json
-D:\Vue-App\DotCoreVue-Mvc\comm\bin\Debug\netstandard2.0\comm.dll
-D:\Vue-App\DotCoreVue-Mvc\comm\bin\Debug\netstandard2.0\comm.pdb
-D:\Vue-App\DotCoreVue-Mvc\comm\obj\Debug\netstandard2.0\comm.csproj.CoreCompileInputs.cache
-D:\Vue-App\DotCoreVue-Mvc\comm\obj\Debug\netstandard2.0\comm.AssemblyInfoInputs.cache
-D:\Vue-App\DotCoreVue-Mvc\comm\obj\Debug\netstandard2.0\comm.AssemblyInfo.cs
-D:\Vue-App\DotCoreVue-Mvc\comm\obj\Debug\netstandard2.0\comm.dll
-D:\Vue-App\DotCoreVue-Mvc\comm\obj\Debug\netstandard2.0\comm.pdb
