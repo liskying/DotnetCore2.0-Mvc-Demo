@@ -12644,11 +12644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vue-App\\DotCoreVue-Mvc\\Mvc\\Mvc.csproj",
+      "projectUniqueName": "D:\\Vue-App\\DotCoreVue-Mvc\\mvc\\Mvc.csproj",
       "projectName": "Mvc",
-      "projectPath": "D:\\Vue-App\\DotCoreVue-Mvc\\Mvc\\Mvc.csproj",
+      "projectPath": "D:\\Vue-App\\DotCoreVue-Mvc\\mvc\\Mvc.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Vue-App\\DotCoreVue-Mvc\\Mvc\\obj\\",
+      "outputPath": "D:\\Vue-App\\DotCoreVue-Mvc\\mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
