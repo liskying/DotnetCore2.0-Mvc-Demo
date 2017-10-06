@@ -1,0 +1,12 @@
+D:\Vue-App\DotCoreVue-Mvc\Mvc
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Mvc
+--content-root=D:\Vue-App\DotCoreVue-Mvc\Mvc
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Home\About.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Home\Contact.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Home\Index.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Shared\Error.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Shared\_Layout.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\_ViewImports.cshtml
+--file=D:\Vue-App\DotCoreVue-Mvc\Mvc\Views\_ViewStart.cshtml

@@ -1,0 +1,14 @@
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Datas.dll
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Domains.dll
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Dtos.dll
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Domains.pdb
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Dtos.pdb
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Datas.pdb
+D:\Vue-App\DotCoreVue-Mvc\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\Vue-App\DotCoreVue-Mvc\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Vue-App\DotCoreVue-Mvc\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Vue-App\DotCoreVue-Mvc\Services\obj\Debug\netstandard2.0\Services.dll
+D:\Vue-App\DotCoreVue-Mvc\Services\obj\Debug\netstandard2.0\Services.pdb
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Vue-App\DotCoreVue-Mvc\Services\bin\Debug\netstandard2.0\Services.pdb

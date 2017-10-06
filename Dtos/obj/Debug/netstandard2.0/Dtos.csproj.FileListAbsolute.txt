@@ -1,0 +1,8 @@
+D:\Vue-App\DotCoreVue-Mvc\Dtos\bin\Debug\netstandard2.0\Dtos.deps.json
+D:\Vue-App\DotCoreVue-Mvc\Dtos\bin\Debug\netstandard2.0\Dtos.dll
+D:\Vue-App\DotCoreVue-Mvc\Dtos\bin\Debug\netstandard2.0\Dtos.pdb
+D:\Vue-App\DotCoreVue-Mvc\Dtos\obj\Debug\netstandard2.0\Dtos.csproj.CoreCompileInputs.cache
+D:\Vue-App\DotCoreVue-Mvc\Dtos\obj\Debug\netstandard2.0\Dtos.AssemblyInfoInputs.cache
+D:\Vue-App\DotCoreVue-Mvc\Dtos\obj\Debug\netstandard2.0\Dtos.AssemblyInfo.cs
+D:\Vue-App\DotCoreVue-Mvc\Dtos\obj\Debug\netstandard2.0\Dtos.dll
+D:\Vue-App\DotCoreVue-Mvc\Dtos\obj\Debug\netstandard2.0\Dtos.pdb
